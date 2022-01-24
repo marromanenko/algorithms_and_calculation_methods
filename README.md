@@ -26,3 +26,6 @@ Two laboratory works on the subject Algorithms and calculation methods
 5. When performing the tasks formulated in item 4 to measure the running time of algorithms for each development environment.
 6. When solving the problems set out in item 4, it is necessary to display all intermediate calculations.
 
+**Methods:**
+1. Gaussian method with the choice of the main element by columns
+2. Reflection method based on QR-factorization
