@@ -1,7 +1,7 @@
 # algorithms_and_calculation_methods
 Two laboratory works on the subject Algorithms and calculation methods
 
-## lab1
+## lab1 Nonlinear equations with one unknown
 
 **Formulation of the problem**
 1. Develop a program that will work in windowed mode and implement the given methods for solving nonlinear equations. The developed program should display all intermediate results.
@@ -16,7 +16,7 @@ Two laboratory works on the subject Algorithms and calculation methods
 ![Screenshot](lab1/1.png)
 ![Screenshot](lab1/2.png)
 
-## lab2
+## lab2 Direct methods for solving systems of linear algebraic equations and calculation of the inverse matrix
 
 **Formulation of the problem**
 1. Solve the first system of linear algebraic equations by a given direct method
