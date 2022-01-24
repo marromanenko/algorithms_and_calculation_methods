@@ -1,7 +1,7 @@
 # algorithms_and_calculation_methods
 Two laboratory works on the subject Algorithms and calculation methods
 
-**lab1**
+## lab1
 
 **Formulation of the problem**
 1. Develop a program that will work in windowed mode and implement the given methods for solving nonlinear equations. The developed program should display all intermediate results.
@@ -15,3 +15,14 @@ Two laboratory works on the subject Algorithms and calculation methods
 **Equation:**
 ![Screenshot](lab1/1.png)
 ![Screenshot](lab1/2.png)
+
+## lab2
+
+**Formulation of the problem**
+1. Solve the first system of linear algebraic equations by a given direct method
+2. Solve the second symmetric system of linear algebraic equations by the method of square roots (Kholetsky method) and any other direct method.
+3. Solve the third tape system of linear algebraic equations by the run method and any other direct method and find det A using the formula that follows from the run method
+4. Perform items 1-3 in the window mode in the Python programming language. It is not allowed to use special functions for processing matrices and vectors when implementing the set tasks, ie it is necessary to implement SLAR solutions by coordinate calculations.
+5. When performing the tasks formulated in item 4 to measure the running time of algorithms for each development environment.
+6. When solving the problems set out in item 4, it is necessary to display all intermediate calculations.
+
